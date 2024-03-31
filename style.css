@@ -1,0 +1,48 @@
+body {
+  background: rgb(70, 142, 341);
+  font: normal 15pt arial;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+.princial {
+  padding-left: 50rem;
+}
+#msg {
+  color: black;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+
+#foto {
+  padding-top: 15px;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#imagem {
+  width: auto;
+  height: 100%;
+}
+
+section {
+  background: white !important;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 10px rgba(70, 15, 15, 0.3);
+}
+
+footer {
+  color: white !important;
+  text-align: center;
+  font-style: italic;
+}
